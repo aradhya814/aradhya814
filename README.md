@@ -6,14 +6,14 @@
 <!-- ===================== TYPING ANIMATION ===================== -->
 <div align="center">
   <a href="https://github.com/aradhya814">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=AI+Generalist+%40+MIT+Manipal;Machine+Learning+%2F+Deep+Learning+Engineer;I+build+ML+products%2C+not+just+notebooks;Open+to+internships+%26+collaboration" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D066&center=true&vCenter=true&width=620&lines=AI+Generalist+%40+MIT+Manipal;Machine+Learning+%2F+Deep+Learning+Engineer;I+build+ML+products%2C+not+just+notebooks;Open+to+internships+%26+collaboration" alt="Typing SVG"/>
   </a>
 </div>
 
 <!-- ===================== OFFICIAL WEBSITE (MAIN HIGHLIGHT) ===================== -->
 <div align="center">
   <a href="https://www.arclo.in">
-    <img src="https://img.shields.io/badge/🌐_OFFICIAL_WEBSITE-www.arclo.in-1F6FEB?style=for-the-badge&labelColor=0D1117" height="38" alt="Arclo — Official Website"/>
+    <img src="https://img.shields.io/badge/🌐_OFFICIAL_WEBSITE-www.arclo.in-22D066?style=for-the-badge&labelColor=07070C" height="38" alt="Arclo — Official Website"/>
   </a>
 </div>
 
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/aradhya814">
-    <img src="https://komarev.com/ghpvc/?username=aradhya814&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=aradhya814&style=for-the-badge&color=22D066&label=PROFILE+VIEWS" alt="Profile Views"/>
   </a>
 </div>
 
@@ -101,7 +101,7 @@ class AradhyaGoswami:
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=aradhya814&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=aradhya814&hide_border=true&background=0D0D14&stroke=22D066&ring=4AFF8C&fire=4AFF8C&currStreakNum=F2F2F8&currStreakLabel=22D066&sideNums=F2F2F8&sideLabels=D4D8EC&dates=8888A0" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -110,7 +110,7 @@ class AradhyaGoswami:
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aradhya814&theme=tokyo-night&hide_border=true&area=true&custom_title=Aradhya's%20Contribution%20Graph" alt="Activity Graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aradhya814&hide_border=true&area=true&bg_color=0D0D14&color=4AFF8C&line=22D066&point=4AFF8C&title_color=4AFF8C&custom_title=Aradhya's%20Contribution%20Graph" alt="Activity Graph"/>
 </div>
 
 <br/>
