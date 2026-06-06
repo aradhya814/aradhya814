@@ -150,6 +150,18 @@ class AradhyaGoswami:
 
 <br/>
 
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aradhya814/aradhya814/output/snake-dark.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/aradhya814/aradhya814/output/snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
   <i>"The best way to predict the future is to build it."</i>
