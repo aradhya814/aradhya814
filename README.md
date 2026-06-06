@@ -6,7 +6,7 @@
 <!-- ===================== TYPING ANIMATION ===================== -->
 <div align="center">
   <a href="https://github.com/aradhya814">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Pre-final+year+%40+MIT+Manipal;Machine+Learning+%2F+Deep+Learning+Engineer;I+build+ML+products%2C+not+just+notebooks;Open+to+internships+%26+collaboration" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=AI+Generalist+%40+MIT+Manipal;Machine+Learning+%2F+Deep+Learning+Engineer;I+build+ML+products%2C+not+just+notebooks;Open+to+internships+%26+collaboration" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -32,14 +32,14 @@
 class AradhyaGoswami:
     def __init__(self):
         self.role      = "Data Science & Engineering @ MIT Manipal"
-        self.year      = "Pre-final year B.Tech"
+        self.title     = "AI Generalist"
         self.focus     = ["Machine Learning", "Deep Learning", "Applied AI"]
         self.learning  = ["MLOps", "Production-grade ML", "Deep Learning"]
         self.open_to   = ["Internships (ML / Data Science)", "Collaboration"]
         self.fun_fact  = "I'd rather ship a working model than a perfect one on paper."
 ```
 
-- 🎓 Pre-final year **B.Tech in Data Science & Engineering** at **Manipal Institute of Technology (MIT), Manipal**
+- 🎓 **AI Generalist** — B.Tech in Data Science & Engineering at **Manipal Institute of Technology (MIT), Manipal**
 - 🤖 I work hands-on across the **ML/DL stack** — data, modeling, evaluation, and turning notebooks into usable tools
 - 🌱 Going deeper into **deep learning, MLOps, and shipping ML to production**
 - 👯 Open to **collaborating** on ML/DL, data-science, and applied-AI projects
