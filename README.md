@@ -10,6 +10,13 @@
   </a>
 </div>
 
+<!-- ===================== OFFICIAL WEBSITE (MAIN HIGHLIGHT) ===================== -->
+<div align="center">
+  <a href="https://www.arclo.in">
+    <img src="https://img.shields.io/badge/🌐_OFFICIAL_WEBSITE-www.arclo.in-1F6FEB?style=for-the-badge&labelColor=0D1117" height="38" alt="Arclo — Official Website"/>
+  </a>
+</div>
+
 <!-- ===================== SOCIAL / CONTACT ===================== -->
 <div align="center">
   <a href="https://www.linkedin.com/in/aradhya-goswami-a682b11b8">
