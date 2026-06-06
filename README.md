@@ -83,15 +83,38 @@ class AradhyaGoswami:
 
 <br/>
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
-## 🚀 Featured Projects
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 Projects
+
+### 🤖 Machine Learning & Data Science
 
 | Project | What it does | Tech |
 |---------|--------------|------|
-| 🖼️ **[Image Classification on ImageNet](https://github.com/aradhya814/Image_Classification_on_ImageNet)** | Benchmarks **ResNet50 · EfficientNetB0 · MobileNetV2** on Tiny ImageNet, compared via accuracy, confusion matrices & ROC curves. | Python · Deep Learning · CNNs |
-| 🚦 **[Traffic Anomaly Detection](https://github.com/aradhya814/Anomaly-detection-in-Traffic-analysis)** | Real-time anomaly detection on streaming urban-traffic sensor data — Big Data Analytics mini-project. | Kafka · PySpark · Isolation Forest · XGBoost |
-| 📊 **[Tip-Split Reduction Model](https://github.com/aradhya814/Internship-Project-Tip-Split-Reduction-Model)** | Built during my summer internship at **STL** — Python data analysis & machine learning. | Python · Pandas · scikit-learn |
+| 🚦 **[Traffic Anomaly Detection](https://github.com/aradhya814/Anomaly-detection-in-Traffic-analysis)** ⭐2 | Real-time anomaly detection on streaming urban-traffic sensor data — Big Data Analytics mini-project. | Kafka · PySpark · Isolation Forest · XGBoost |
+| 🖼️ **[Image Classification on ImageNet](https://github.com/aradhya814/Image_Classification_on_ImageNet)** | Benchmarks **ResNet50 · EfficientNetB0 · MobileNetV2** on Tiny ImageNet (accuracy, confusion matrices, ROC). | Python · Deep Learning · CNNs |
+| 📊 **[Tip-Split Reduction Model](https://github.com/aradhya814/Internship-Project-Tip-Split-Reduction-Model)** | Summer internship at **STL** — Python data analysis & machine learning. | Python · Pandas · scikit-learn |
+| 📈 **[Brainwave Matrix Solutions](https://github.com/aradhya814/Brainwave_Matrix_Solutions)** | Deliverables & analysis from my **Data Analyst** internship tasks. | Python · Data Analysis |
+| 🧪 **[Machine Learning Lab](https://github.com/aradhya814/Machine-Learning-Lab-Project)** | Core ML lab work and model implementations. | Python · scikit-learn |
+| 🎬 **[Anime Project](https://github.com/aradhya814/Anime_Project)** | Exploratory data/ML project built in Jupyter. | Python · Jupyter |
+
+### 🌐 Web & Applications
+
+| Project | What it does | Tech |
+|---------|--------------|------|
+| 🟢 **[Arclo — Official Site](https://github.com/aradhya814/arclo-website)** | The website behind **[www.arclo.in](https://www.arclo.in)**. | HTML · CSS · JS |
 | 💼 **[Insurance CRM Dashboard](https://github.com/aradhya814/Insurance-crm-dashboard)** | A Netflix-inspired CRM dashboard for insurance professionals. | JavaScript · Dashboard UI |
+| 🤝 **[TribeSync](https://github.com/aradhya814/TribeSync)** | A TypeScript web application. | TypeScript |
+| 💪 **[Fitmentum](https://github.com/aradhya814/Fitmentum)** | A fitness-focused web app. | Web |
+| 🏨 **[Hostel Management System](https://github.com/aradhya814/Hostel_Management_System)** | System to manage hostel operations and records. | JavaScript |
+| 👤 **[Client Portfolio Site](https://github.com/aradhya814/mdimran-portfolio)** | A portfolio website built for a client. | TypeScript |
+
+### 💻 Programming & Coursework
+
+| Project | What it does | Tech |
+|---------|--------------|------|
+| ☕ **[Java GUI](https://github.com/aradhya814/JAVA_GUI)** | GUI application(s) built in Java. | Java |
+| 🐍 **[MIT DA Codes](https://github.com/aradhya814/MIT-DA-CODES)** | Python & data-analysis code from coursework. | Python |
+| 🧩 **[C++ Data Structures](https://github.com/aradhya814/C-_DATASTRUCTURE_CODES)** | Data structures & algorithms implemented in C++. | C++ |
 
 <!-- 🔒 ScriptAiPro & CuriousAlchemy are still PRIVATE — make them public and I'll add rows here. -->
 
