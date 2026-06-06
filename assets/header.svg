@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Aradhya Goswami — Data Science and Engineering">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1F6FEB"/>
+      <stop offset="1" stop-color="#58A6FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <!-- decorative waves -->
+  <path d="M0 175 C 200 140 400 210 600 175 S 1000 140 1200 175 L 1200 240 L 0 240 Z" fill="#ffffff" fill-opacity="0.10"/>
+  <path d="M0 200 C 220 165 420 235 620 200 S 1020 165 1200 200 L 1200 240 L 0 240 Z" fill="#ffffff" fill-opacity="0.06"/>
+  <!-- name -->
+  <text x="600" y="106" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#ffffff" letter-spacing="1">Aradhya Goswami</text>
+  <!-- subtitle -->
+  <text x="600" y="146" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="500" fill="#EAF2FF">Data Science &amp; Engineering @ MIT Manipal</text>
+  <!-- tagline -->
+  <text x="600" y="178" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#D6E6FF" letter-spacing="3">MACHINE LEARNING · DEEP LEARNING · APPLIED AI</text>
+</svg>
