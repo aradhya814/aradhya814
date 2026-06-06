@@ -1,6 +1,6 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Aradhya%20Goswami&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%26%20Engineering%20%7C%20Machine%20Learning%20%2F%20Deep%20Learning&descSize=18&descAlignY=60" alt="header"/>
+  <img width="100%" src="https://raw.githubusercontent.com/aradhya814/aradhya814/main/assets/header.svg" alt="Aradhya Goswami — Data Science & Engineering"/>
 </div>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
@@ -123,6 +123,4 @@ class AradhyaGoswami:
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
   <i>"The best way to predict the future is to build it."</i>
-  <br/><br/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=120&section=footer" alt="footer"/>
 </div>
