@@ -31,18 +31,16 @@
 ```python
 class AradhyaGoswami:
     def __init__(self):
-        self.role        = "Data Science & Engineering @ MIT Manipal"
-        self.year        = "Pre-final year B.Tech"
-        self.focus       = ["Machine Learning", "Deep Learning", "Applied AI"]
-        self.currently   = "Building ScriptAiPro"
-        self.learning    = ["MLOps", "Production-grade ML", "Deep Learning"]
-        self.open_to     = ["Internships (ML / Data Science)", "Collaboration"]
-        self.fun_fact    = "I'd rather ship a working model than a perfect one on paper."
+        self.role      = "Data Science & Engineering @ MIT Manipal"
+        self.year      = "Pre-final year B.Tech"
+        self.focus     = ["Machine Learning", "Deep Learning", "Applied AI"]
+        self.learning  = ["MLOps", "Production-grade ML", "Deep Learning"]
+        self.open_to   = ["Internships (ML / Data Science)", "Collaboration"]
+        self.fun_fact  = "I'd rather ship a working model than a perfect one on paper."
 ```
 
 - 🎓 Pre-final year **B.Tech in Data Science & Engineering** at **Manipal Institute of Technology (MIT), Manipal**
 - 🤖 I work hands-on across the **ML/DL stack** — data, modeling, evaluation, and turning notebooks into usable tools
-- 🔭 Currently building **[ScriptAiPro](https://github.com/aradhya814/ScriptAiPro)** — my most active project right now
 - 🌱 Going deeper into **deep learning, MLOps, and shipping ML to production**
 - 👯 Open to **collaborating** on ML/DL, data-science, and applied-AI projects
 - 💼 Actively seeking **internships in Machine Learning / Data Science**
@@ -58,7 +56,7 @@ class AradhyaGoswami:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **ML / Data Science**
 
@@ -67,76 +65,36 @@ class AradhyaGoswami:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Tools & Platforms**
+**Big Data & Tools**
 
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 <br/>
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/aradhya814/ScriptAiPro">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aradhya814&repo=ScriptAiPro&theme=tokyonight&hide_border=true" alt="ScriptAiPro"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/aradhya814/CuriousAlchemy">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aradhya814&repo=CuriousAlchemy&theme=tokyonight&hide_border=true" alt="CuriousAlchemy"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/aradhya814/Internship-Project-Tip-Split-Reduction-Model">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aradhya814&repo=Internship-Project-Tip-Split-Reduction-Model&theme=tokyonight&hide_border=true" alt="Internship Project"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/aradhya814/Machine-Learning-Lab-Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aradhya814&repo=Machine-Learning-Lab-Project&theme=tokyonight&hide_border=true" alt="ML Lab Project"/>
-      </a>
-    </td>
-  </tr>
-</table>
+| Project | What it does | Tech |
+|---------|--------------|------|
+| 🖼️ **[Image Classification on ImageNet](https://github.com/aradhya814/Image_Classification_on_ImageNet)** | Benchmarks **ResNet50 · EfficientNetB0 · MobileNetV2** on Tiny ImageNet, compared via accuracy, confusion matrices & ROC curves. | Python · Deep Learning · CNNs |
+| 🚦 **[Traffic Anomaly Detection](https://github.com/aradhya814/Anomaly-detection-in-Traffic-analysis)** | Real-time anomaly detection on streaming urban-traffic sensor data — Big Data Analytics mini-project. | Kafka · PySpark · Isolation Forest · XGBoost |
+| 📊 **[Tip-Split Reduction Model](https://github.com/aradhya814/Internship-Project-Tip-Split-Reduction-Model)** | Built during my summer internship at **STL** — Python data analysis & machine learning. | Python · Pandas · scikit-learn |
+| 💼 **[Insurance CRM Dashboard](https://github.com/aradhya814/Insurance-crm-dashboard)** | A Netflix-inspired CRM dashboard for insurance professionals. | JavaScript · Dashboard UI |
 
-**Project highlights**
-
-- 🧪 **[ScriptAiPro](https://github.com/aradhya814/ScriptAiPro)** — My current flagship project and most active repository this year (63+ commits).
-- ⚗️ **[CuriousAlchemy](https://github.com/aradhya814/CuriousAlchemy)** — An exploratory project I tinker with on the side.
-- 📊 **[Tip-Split Reduction Model](https://github.com/aradhya814/Internship-Project-Tip-Split-Reduction-Model)** — Built during my summer internship at STL: Python-based data analysis & machine learning.
-- 🎯 **[Machine-Learning-Lab-Project](https://github.com/aradhya814/Machine-Learning-Lab-Project)** — A collection of machine-learning lab work and model implementations.
+<!-- 🔒 ScriptAiPro & CuriousAlchemy are still PRIVATE — make them public and I'll add rows here. -->
 
 <br/>
 
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Stats
+<!-- ===================== STREAK ===================== -->
+## 🔥 GitHub Streak
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aradhya814&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aradhya814&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aradhya814&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<!-- ===================== TROPHIES ===================== -->
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aradhya814&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=aradhya814&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br/>
