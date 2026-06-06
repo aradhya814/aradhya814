@@ -1,18 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Aradhya Goswami — Data Science and Engineering">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="240" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1F6FEB"/>
-      <stop offset="1" stop-color="#58A6FF"/>
+      <stop stop-color="#07070C"/>
+      <stop offset="1" stop-color="#14141E"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#22D066"/>
+      <stop offset="1" stop-color="#4AFF8C"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="240" fill="url(#bg)"/>
-  <!-- decorative waves -->
-  <path d="M0 175 C 200 140 400 210 600 175 S 1000 140 1200 175 L 1200 240 L 0 240 Z" fill="#ffffff" fill-opacity="0.10"/>
-  <path d="M0 200 C 220 165 420 235 620 200 S 1020 165 1200 200 L 1200 240 L 0 240 Z" fill="#ffffff" fill-opacity="0.06"/>
+  <!-- subtle green glow waves -->
+  <path d="M0 180 C 220 150 420 215 620 182 S 1010 150 1200 182 L 1200 240 L 0 240 Z" fill="#22D066" fill-opacity="0.10"/>
+  <path d="M0 205 C 240 175 440 240 640 207 S 1030 175 1200 207 L 1200 240 L 0 240 Z" fill="#4AFF8C" fill-opacity="0.06"/>
   <!-- name -->
-  <text x="600" y="106" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#ffffff" letter-spacing="1">Aradhya Goswami</text>
+  <text x="600" y="106" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#F2F2F8" letter-spacing="1">Aradhya Goswami</text>
   <!-- subtitle -->
-  <text x="600" y="146" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="500" fill="#EAF2FF">Data Science &amp; Engineering @ MIT Manipal</text>
-  <!-- tagline -->
-  <text x="600" y="178" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#D6E6FF" letter-spacing="3">MACHINE LEARNING · DEEP LEARNING · APPLIED AI</text>
+  <text x="600" y="146" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="500" fill="#D4D8EC">Data Science &amp; Engineering @ MIT Manipal</text>
+  <!-- tagline in Arclo green -->
+  <text x="600" y="178" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="url(#green)" letter-spacing="3">MACHINE LEARNING · DEEP LEARNING · APPLIED AI</text>
+  <!-- accent underline -->
+  <rect x="520" y="190" width="160" height="3" rx="1.5" fill="url(#green)"/>
 </svg>
