@@ -141,11 +141,11 @@ class AradhyaGoswami:
 
 <br/>
 
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-## 🐍 Contribution Graph
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aradhya814/aradhya814/output/snake.svg" alt="Snake animation"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aradhya814&theme=tokyo-night&hide_border=true&area=true&custom_title=Aradhya's%20Contribution%20Graph" alt="Activity Graph"/>
 </div>
 
 <br/>
